@@ -1,5 +1,5 @@
 <?php
 echo 'Hello World';
 phpinfo();
-echo 'Info file    TEST ended';
+echo 'Info file    TESjjjjjT ended';
 ?>
